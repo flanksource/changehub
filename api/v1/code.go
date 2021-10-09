@@ -1,4 +1,4 @@
-package api
+package v1
 
 type Repo struct {
 	Environments map[string]FileFilter
